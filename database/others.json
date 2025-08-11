@@ -1,0 +1,19 @@
+{
+    "facilities_canteen": "others/facilities_canteen.jpg",
+    "facilities_computer": "others/facilities_computer.jpg",
+    "facilities_library": "others/facilities_library.jpg",
+    "facilities_science": "others/facilities_science.jpg",
+    "facilities_science_lab": "others/facilities_science_lab.jpg",
+    "facilities_transportation": "others/facilities_transportation.png",
+    "faculty_bbs": "others/faculty_bbs.jpg",
+    "faculty_kids": "others/faculty_kids.jpg",
+    "faculty_management": "others/faculty_management.jpg",
+    "faculty_school": "others/faculty_school.jpg",
+    "faculty_science": "others/faculty_science.jpg",
+    "logo_200_200": "others/logo_200_200.jpg",
+    "namuna_board": "others/namuna_board.jpg",
+    "namuna_overboarding": "others/namuna_overboarding.jpg",
+    "namuna_principal": "others/namuna_principal.jpg",
+    "namuna_viceprincipal": "others/namuna_viceprincipal.jpg",
+    "onboarding": "others/onboarding.mp4"
+}

@@ -1,0 +1,67 @@
+{
+    "images": {
+        "bbs": [
+            "media/bbs/bbs_image_s.jpg",
+            "media/bbs/bbs_image.jpg",
+            "media/bbs/BBS_namuna.jpg",
+            "media/bbs/BBS_namuna(4).jpg",
+            "media/bbs/BBS_namuna(3).jpg",
+            "media/bbs/BBS_namuna(2).jpg",
+            "media/bbs/BBS_namuna(1).jpg"
+        ],
+        "kids": [
+            "media/kids/faculty_kids.jpg",
+            "media/kids/IMG_2577edited.jpg",
+            "media/kids/IMG_2567edited.jpg",
+            "media/kids/IMG_2555edited.jpg",
+            "media/kids/IMG_2545edited.jpg",
+            "media/kids/IMG_2539edited.jpg"
+        ],
+        "plustwo": [
+            "media/plustwo/namuna_plustwo_pressmeet_ (9).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (8).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (7).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (6).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (5).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (4).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (38).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (37).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (36).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (35).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (34).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (33).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (32).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (31).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (30).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (3).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (29).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (28).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (27).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (26).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (25).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (24).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (23).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (22).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (21).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (20).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (2).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (19).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (18).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (17).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (16).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (15).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (14).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (13).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (12).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (11).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (10).jpeg",
+            "media/plustwo/namuna_plustwo_pressmeet_ (1).jpeg",
+            "media/plustwo/namuna_chemistry.jpg"
+        ],
+        "school": [
+            "media/school/namuna_overboarding.jpg",
+            "media/school/IMG_2587edited.jpg",
+            "media/school/IMG_2559edited.jpg"
+        ]
+    }
+}
