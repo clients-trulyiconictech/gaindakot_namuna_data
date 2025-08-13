@@ -1,14 +1,26 @@
 {
     "notices": [
         {
-            "id": "Bachelor-of-buisness-studies-program(bbs)-curriculum",
+            "id": "Schedule-For-First-Progressive-Assessment-2082(+2)",
+            "date": "2025-08-13",
+            "title": "Schedule For First Progressive Assessment 2082(+2)",
+            "files": [
+                {
+                    "file_name": "Schedule For First Progressive Assessment 2082(+2)",
+                    "file_type": "jpg",
+                    "file_path": "notice/20250813-Schedule_For_First_Progressive_Assessment_2082(+2)/IMG-20250812-WA0025.jpg"
+                }
+            ]
+        },
+        {
+            "id": "Bachelor-Of-Buisness-Studies-Program(BBS)-curriculum",
             "date": "2025-08-08",
-            "title": "Bachelor of buisness studies program(bbs) curriculum",
+            "title": "Bachelor Of Buisness Studies Program(BBS) curriculum",
             "files": [
                 {
                     "file_name": "Bachelor Of Buisness Studies Program(Bbs) Curriculum",
                     "file_type": "pdf",
-                    "file_path": "notice/20250808-Bachelor_of_buisness_studies_program(BBS)_curriculum/BBS Curriculum.pdf"
+                    "file_path": "notice/20250808-Bachelor_Of_Buisness_Studies_Program(BBS)_curriculum/BBS Curriculum.pdf"
                 }
             ]
         }

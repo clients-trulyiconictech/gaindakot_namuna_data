@@ -73,7 +73,7 @@ if os.path.isdir(notice_dir):
                 date_part, title_part = folder_name.split('-', 1)
                 formatted_date = f"{date_part[:4]}-{date_part[4:6]}-{date_part[6:]}"
                 raw_title = title_part.replace('_', ' ').strip()
-                title_formatted = raw_title.capitalize()
+                title_formatted = raw_title
                 title_title_case = raw_title.title()
 
                 file_entries = []
@@ -101,7 +101,7 @@ if os.path.isdir(notice_dir):
 
 # Reverse the notices list so newest ones come first
 with open(notice_json_path, 'w', encoding='utf-8') as f:
-    json.dump({"notices": list(reversed(notices))}, f, indent=4)
+    json.dump({"notices": list(notices)}, f, indent=4)
 
 # -----------------------------
 # Update version
